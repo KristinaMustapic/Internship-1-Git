@@ -8,6 +8,7 @@ namespace GitHomeworkApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello from Marko");
+            Console.WriteLine("Final commit");
         }
     }
 }
